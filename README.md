@@ -1,3 +1,7 @@
 # hello-world
-hello
-hello my name is valentijn i have two dogs
+ readme-edits
+hello everyone,
+
+my name is valentijn and i am typing at the moment
+i have two dogs and they are cool
+
